@@ -1,15 +1,14 @@
 ﻿
 /* 画像 (及び画像タイプのカード) 白背景 */
 div.css-1dbjc4n.r-1ets6dv.r-1867qdf.r-1phboty.r-rs99b7.r-1ny4l3l.r-1udh08x.r-o7ynqc.r-6416eg {
-  /*width: 480px;*/
-  max-height: 120px;
-  border-radius: 3px;
+    /*width: 480px;*/
+    max-height: 120px;
+    border-radius: 3px;
 }
 /* 画像 (及び画像タイプのカード) 青背景 */
 div.css-1dbjc4n.r-18bvks7.r-1867qdf.r-1phboty.r-rs99b7.r-1ny4l3l.r-1udh08x.r-o7ynqc.r-6416eg {
-  max-height: 120px;
-  border-radius: 3px;
-
+    max-height: 120px;
+    border-radius: 3px;
 }
 
 
@@ -18,469 +17,459 @@ div.css-1dbjc4n.r-18bvks7.r-1867qdf.r-1phboty.r-rs99b7.r-1ny4l3l.r-1udh08x.r-o7y
 
 /* 画像 */
 div.css-1dbjc4n.r-xb9fkz.r-1f720gc {
-  width: 100%;
+    width: 100%;
 }
 
 /* 「いいね」ボタンなどの行 */
 div.css-1dbjc4n.r-1ta3fxp.r-18u37iz.r-1wtj0ep.r-1s2bzr4.r-1mdbhws {
-  margin-top: 5px;
-  display: none;
+    margin-top: 5px;
+    display: none;
 }
 
 /* 「このスレッドを表示」の行 1 */
 div.css-901oao.r-1cvl2hr.r-1tl8opc.r-a023e6.r-16dba41.r-rjixqe.r-bcqeeo.r-5njf8e.r-qvutc0 {
-  padding-top: 1px;
-  padding-bottom: 1px;
-  color:#999999;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    color: #999999;
 }
 /* 「このスレッドを表示」の行 2 */
 div.css-1dbjc4n.r-1iusvr4.r-16y2uox.r-oyd9sg {
-  padding-top: 1px;
-  padding-bottom: 1px;
+    padding-top: 1px;
+    padding-bottom: 1px;
 }
 
 /* 各ツイート内側枠 */
 div.css-1dbjc4n.r-1iusvr4.r-16y2uox.r-1777fci.r-kzbkwu {
-  padding-bottom: 9px;
+    padding-bottom: 9px;
 }
 
 /* 名前、id枠の上余白 */
 div.css-1dbjc4n.r-1iusvr4.r-16y2uox.r-ttdzmv {
-  padding-top: 8px;
-
+    padding-top: 8px;
 }
 
 /* 動画再生アイコン */
 div.css-18t94o4.css-1dbjc4n.r-l5o3uw.r-11mg6pl.r-sdzlij.r-1phboty.r-14f9gny.r-e6wyp1.r-1ny4l3l.r-o7ynqc.r-6416eg.r-1p15a4t {
-  width: 15%;
-  height: 15%
+    width: 15%;
+    height: 15%
 }
 
 /* 画像, 引用RTなどの枠 */
 div.css-1dbjc4n.r-1ssbvtb.r-1s2bzr4 {
-  margin-top: 5px;
-
+    margin-top: 5px;
 }
 
 /* 各ツイート枠 の後ろ */
 div.css-1dbjc4n.r-1p0dtai.r-1d2f490.r-11yh6sk.r-1rnoaur.r-u8s1d.r-zchlnj.r-ipm5af {
-  background-color: #444444;
+    background-color: #444444;
 }
 /* 各ツイート枠 白背景 */
 div.css-1dbjc4n.r-j5o65s.r-qklmqi.r-1adg3ll.r-1ny4l3l {
-  border-style: solid;
-  border-color: #cccccc;
-  border-radius: 15px;
-  border-width: 1px;
-
-  /* 横枠線が2本分の太さにならないように上に1本分ずらす */
-  margin-top: -1px;
-
-  background-color: #444444;
+    border-style: solid;
+    border-color: #cccccc;
+    border-radius: 15px;
+    border-width: 1px;
+    /* 横枠線が2本分の太さにならないように上に1本分ずらす */
+    margin-top: -1px;
+    background-color: #444444;
 }
 /* 各ツイート枠 青背景 */
 div.css-1dbjc4n.r-1ila09b.r-qklmqi.r-1adg3ll.r-1ny4l3l {
-  border-style: solid;
-  border-color: #cccccc;
-  border-radius: 15px;
-  border-width: 1px;
-
-  /* 横枠線が2本分の太さにならないように上に1本分ずらす */
-  margin-top: -1px;
-
-  background-color: #444444;
-
-
+    border-style: solid;
+    border-color: #cccccc;
+    border-radius: 15px;
+    border-width: 1px;
+    /* 横枠線が2本分の太さにならないように上に1本分ずらす */
+    margin-top: -1px;
+    background-color: #444444;
 }
 
 
 /* Twitterカード (画像タイプ以外) 白背景 */
 div.css-1dbjc4n.r-1ets6dv.r-1867qdf.r-1phboty.r-rs99b7.r-18u37iz.r-1ny4l3l.r-1udh08x.r-o7ynqc.r-6416eg {
-  display: none;
+    display: none;
 }
 /* Twitterカード (画像タイプ以外) 青背景 */
 div.css-1dbjc4n.r-18bvks7.r-1867qdf.r-1phboty.r-rs99b7.r-18u37iz.r-1ny4l3l.r-1udh08x.r-o7ynqc.r-6416eg {
-  display: none;
+    display: none;
 }
 
 
 /* 引用RT (白背景) */
 div.css-1dbjc4n.r-1ets6dv.r-1867qdf.r-rs99b7.r-1loqt21.r-adacv.r-1ny4l3l.r-1udh08x.r-o7ynqc.r-6416eg {
-  max-height: 20px;
+    max-height: 20px;
 }
 /* 引用RT (青背景) */
 div.css-1dbjc4n.r-18bvks7.r-1867qdf.r-rs99b7.r-1loqt21.r-adacv.r-1ny4l3l.r-1udh08x.r-o7ynqc.r-6416eg {
-  max-height: 20px;
-  border-color: #a3a3a3;
+    max-height: 20px;
+    border-color: #a3a3a3;
 }
 
 
 
 /* 名前 */
 div.css-901oao.r-1awozwy.r-18jsvk2.r-6koalj.r-1tl8opc.r-a023e6.r-b88u0q.r-rjixqe.r-bcqeeo.r-1udh08x.r-3s2u2q.r-qvutc0 {
-  color:#ffffff;
+    color: #ffffff;
 }
 /* @id */
 div.css-901oao.css-1hf3ou5.r-14j79pv.r-18u37iz.r-37j5jr.r-1wvb978.r-a023e6.r-16dba41.r-rjixqe.r-bcqeeo.r-qvutc0 {
-  /*color: #999999;*/
+    /*color: #999999;*/
 }
 /* @ID */
 div.css-901oao.css-1hf3ou5.r-18u37iz.r-37j5jr.r-1wvb978.r-a023e6.r-16dba41.r-rjixqe.r-bcqeeo.r-qvutc0 {
-  color:#cccccc;
+    color: #cccccc;
 }
 
 /* ******************* */
 /*   本文 (白背景)      */
 /* ******************* */
 div.css-901oao.r-18jsvk2.r-37j5jr.r-a023e6.r-16dba41.r-rjixqe.r-bcqeeo.r-bnwqim.r-qvutc0 {
-  font-size: 16px;
-  color: #ffffff;
+    font-size: 16px;
+    color: #ffffff;
 }
 /* ******************* */
 /*   本文 (青背景)      */
 /* ******************* */
 div.css-901oao.r-vlxjld.r-37j5jr.r-a023e6.r-16dba41.r-rjixqe.r-bcqeeo.r-bnwqim.r-qvutc0 {
-  font-size: 16px;
+    font-size: 16px;
 }
 
 
 
 /* 画像はトリミングなしで表示 */
 div.css-1dbjc4n.r-1niwhzg.r-vvn4in.r-u6sd8q.r-4gszlv.r-1p0dtai.r-1pi2tsx.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af.r-13qz1uu.r-1wyyakw {
-  background-size:contain ;
-  max-height: 120px;
-  background-position:left;
-
+    background-size: contain;
+    max-height: 120px;
+    background-position: left;
 }
 
 /* 複数画像を横並び (1, 2, 4枚) */
 div.css-1dbjc4n.r-eqz5dr.r-1pi2tsx.r-13qz1uu {
-  flex-direction: row;
-  /*height: 40%;*/
-
+    flex-direction: row;
+    /*height: 40%;*/
 }
 
 /* 複数画像を横並び (3枚時の右側2枚) */
 div.css-1dbjc4n.r-1iusvr4.r-eqz5dr.r-16y2uox {
-  flex-direction: row;
-  flex-basis: 33%;
-
+    flex-direction: row;
+    flex-basis: 33%;
 }
 
 /* 複数画像を横並び (3枚時の2枚目) */
 div.css-1dbjc4n.r-1iusvr4.r-16y2uox.r-zl2h9q.r-bnwqim {
-  padding-right: 1px;
-
+    padding-right: 1px;
 }
 
 /* 複数画像を横並び (4枚時の1,2枚目ブロック) */
 div.css-1dbjc4n.r-1iusvr4.r-18u37iz.r-16y2uox.r-zl2h9q {
-  padding-right: 2px;
-
+    padding-right: 2px;
 }
 
 /* 複数画像を横並び (1, 3枚目) */
 div.css-1dbjc4n.r-1iusvr4.r-16y2uox.r-a5pmau.r-bnwqim {
-
-  /* 0 にすると画像が消えてしまう */
-  flex-grow: 1;
-  /* flex-basis: 49% ;*/
+    /* 0 にすると画像が消えてしまう */
+    flex-grow: 1;
+    /* flex-basis: 49% ;*/
 }
 
 /* 複数画像を横並び (2, 4枚目) */
 div.css-1dbjc4n.r-1iusvr4.r-16y2uox.r-bnwqim {
-
-  /* 0 にすると画像が消えてしまう */
-  flex-grow: 1;
-  /* flex-basis: 49% ;*/
-
+    /* 0 にすると画像が消えてしまう */
+    flex-grow: 1;
+    /* flex-basis: 49% ;*/
 }
 
 article.css-1dbjc4n.r-1loqt21.r-18u37iz.r-1ny4l3l.r-1udh08x.r-1qhn6m8.r-i023vh.r-o7ynqc.r-6416eg {
-  /*background-color: #444444;*/
+    /*background-color: #444444;*/
 }
 
 /* ツイート時刻 */
 div a time {
-  color: #aaaaaa;
+    color: #aaaaaa;
 }
 
 /* ハッシュタグ, リンク */
 a.css-4rbku5.css-18t94o4.css-901oao.css-16my406.r-1cvl2hr.r-1loqt21.r-poiln3.r-bcqeeo.r-qvutc0 {
-  color:coral;
+    color: coral;
 }
 
 section.css-1dbjc4n.r-18u37iz.r-2llsf.r-1ny4l3l {
-  background-color: #aaaaaa;
-
+    background-color: #aaaaaa;
 }
 
 div.css-1dbjc4n {
-  /*background-color: #444444;*/
+    /*background-color: #444444;*/
 }
 
-div.css-1dbjc4n.r-sdzlij.r-ggadg3.r-1udh08x.r-u8s1d.r-8jfcpp {
-  /*border-radius: 20px;*/
+    div.css-1dbjc4n.r-sdzlij.r-ggadg3.r-1udh08x.r-u8s1d.r-8jfcpp {
+        /*border-radius: 20px;*/
+    }
 
-}
-
-/* 背景(何もない箇所) */
-div.css-1dbjc4n.r-1habvwh.r-1niwhzg.r-1777fci.r-1ul06mb.r-2llsf.r-1vcqxpo {
-  background-color: #555555;
-}
+    /* 背景(何もない箇所) */
+    div.css-1dbjc4n.r-1habvwh.r-1niwhzg.r-1777fci.r-1ul06mb.r-2llsf.r-1vcqxpo {
+        background-color: #555555;
+    }
 
 span.css-901oao.css-16my406.r-1tl8opc.r-bcqeeo.r-qvutc0 {
-  color: #ffffff;
- 
+    color: #ffffff;
 }
 
 div.css-1dbjc4n.r-1awozwy.r-14lw9ot.r-140t1nj.r-rull8r.r-qklmqi.r-18u37iz.r-1h3ijdo.r-m2pi6t.r-j2kj52.r-13qz1uu {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 /* 左サイドバー */
 div.css-1dbjc4n.r-aqfbo4.r-14lw9ot.r-lyc4rv.r-14skgim.r-13l2t4g.r-1wtj0ep.r-1m6ou43.r-bnwqim.r-o96wvk {
-  background-color: #666666;
-  
+    background-color: #666666;
 }
 
 /* デッキボタン */
 div.css-18t94o4.css-1dbjc4n.r-1awozwy.r-1sw30gj.r-ybecrg.r-119zq30.r-114ovsg.r-18u37iz.r-dnmrzs.r-1ny4l3l.r-1e081e0.r-1f1sjgu.r-bnwqim.r-o7ynqc.r-6416eg.r-13qz1uu {
-  background-color: #434343;
+    background-color: #434343;
 }
 
 
 svg.r-14j79pv.r-4qtqp9.r-yyyyoo.r-50lct3.r-dnmrzs.r-bnwqim.r-1plcrui.r-o7ynqc.r-clp7b1.r-lrvibr {
-  color: #ff9900;
+    color: #ff9900;
 }
 
 /* 上部スタック 1 */
 div.css-18t94o4.css-1dbjc4n.r-14lw9ot.r-1p0dtai.r-1loqt21.r-1d2f490.r-17tb59b.r-1ny4l3l.r-u8s1d.r-zchlnj.r-ipm5af.r-o7ynqc.r-6416eg {
-  background-color: #666666;
+    background-color: #666666;
 }
 /* 上部スタック 2 */
 div.css-1dbjc4n.r-1awozwy.r-14lw9ot.r-3pxcvb.r-rull8r.r-qklmqi.r-18u37iz.r-1h3ijdo.r-m2pi6t.r-j2kj52.r-13qz1uu {
-  background-color: #000000;
+    background-color: #000000;
 }
 
 div.css-1dbjc4n.r-eqz5dr.r-184en5c {
-  background-color: #434343;
-  
+    background-color: #434343;
 }
 
 div.css-1dbjc4n.r-1e081e0.r-1yzf0co {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 label.css-1dbjc4n.r-1awozwy.r-j5o65s.r-rull8r.r-qklmqi.r-1loqt21.r-18u37iz.r-1wtj0ep.r-1e081e0.r-1yzf0co {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 label.css-1dbjc4n.r-1awozwy.r-1loqt21.r-18u37iz.r-1wtj0ep.r-1e081e0.r-1yzf0co {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-1dbjc4n.r-ymttw5.r-184en5c {
-  background-color: #434343;
+    background-color: #434343;
 }
 
 div.css-1dbjc4n.r-14lw9ot.r-1ets6dv.r-y47klf.r-1phboty.r-rs99b7.r-eqz5dr.r-16y2uox.r-1wbh5a2.r-1777fci.r-ero68b {
-  background-color: #666666;
-  color: #f3f3f3;
+    background-color: #666666;
+    color: #f3f3f3;
 }
 
 div.css-1dbjc4n.r-xoduu5.r-xyw6el.r-oyd9sg.r-13qz1uu {
-  color: #ffffff;
-  /*background-color: #666666;*/
-  background-color: #999999;
-  
+    color: #ffffff;
+    /*background-color: #666666;*/
+    background-color: #999999;
 }
 
 div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-16y2uox.r-ymttw5.r-1f1sjgu {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-1dbjc4n.r-ttdzmv {
-  background-color: #434343;
+    background-color: #434343;
 }
 
 a.css-4rbku5.css-18t94o4.css-1dbjc4n.r-1awozwy.r-1loqt21.r-6koalj.r-eqz5dr.r-16y2uox.r-1h3ijdo.r-1777fci.r-s8bhmr.r-1ny4l3l.r-1qhn6m8.r-i023vh.r-o7ynqc.r-6416eg {
-  background-color: #434343;
+    background-color: #434343;
 }
 
 div.css-1dbjc4n.r-16y2uox.r-1wbh5a2.r-1pi2tsx.r-1777fci {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-1h3ijdo.r-1777fci.r-1jgb5lz.r-sb58tz.r-ymttw5.r-13qz1uu {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-1dbjc4n.r-14lw9ot.r-1ets6dv.r-z2wwpe.r-rs99b7.r-6gpygo {
-  background-color: #666666;
-  color: #efefef;
+    background-color: #666666;
+    color: #efefef;
 }
 
 select.r-30o5oe.r-1niwhzg.r-17gur6a.r-1yadl64.r-18jsvk2.r-1loqt21.r-1tl8opc.r-1inkyih.r-rjixqe.r-crgep1.r-1wzrnnt.r-1ny4l3l.r-t60dpp.r-xd6kpl.r-1pn2ns4.r-ttdzmv {
-  color: #f3f3f3;
+    color: #f3f3f3;
 }
 
 div.css-1dbjc4n.r-1pz39u2.r-ouzzow.r-16y2uox.r-1rnoaur.r-z7lthc {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-1dbjc4n.r-1loqt21.r-18u37iz.r-1ny4l3l.r-ymttw5.r-1f1sjgu.r-o7ynqc.r-6416eg.r-13qz1uu {
-  background-color: #434343;
+    background-color: #434343;
 }
 
 a.css-4rbku5.css-18t94o4.css-1dbjc4n.r-1loqt21.r-18u37iz.r-1ny4l3l.r-ymttw5.r-1f1sjgu.r-o7ynqc.r-6416eg.r-13qz1uu {
-  background-color: #434343;
-  color: #cccccc;
+    background-color: #434343;
+    color: #cccccc;
 }
 
 svg.r-18jsvk2.r-4qtqp9.r-yyyyoo.r-1q142lx.r-1xvli5t.r-dnmrzs.r-bnwqim.r-1plcrui.r-lrvibr {
-  color: #cccccc;
-  
+    color: #cccccc;
 }
 
 div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-1h3ijdo.r-1777fci.r-1jgb5lz.r-1ye8kvj.r-ymttw5.r-13qz1uu {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-1dbjc4n.r-11rk87y.r-1dye5f7 {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-nsbfu8 {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-1dbjc4n.r-x572qd.r-1867qdf.r-6gpygo.r-1e081e0.r-oyd9sg {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-1dbjc4n.r-x572qd.r-1867qdf.r-6gpygo.r-oyd9sg {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 input.r-1p0dtai.r-1ei5mc7.r-1pi2tsx.r-1d2f490.r-crgep1.r-orgf3d.r-t60dpp.r-u8s1d.r-zchlnj.r-ipm5af.r-13qz1uu {
-  color: #000000;
+    color: #000000;
 }
 
 div.css-18t94o4.css-1dbjc4n.r-1niwhzg.r-sdzlij.r-1phboty.r-rs99b7.r-1kb76zh.r-2yi16.r-1qi8awa.r-1ny4l3l.r-ymttw5.r-o7ynqc.r-6416eg.r-lrvibr {
-  background-color: #999999;
+    background-color: #999999;
 }
 
 div.css-18t94o4.css-1dbjc4n.r-1niwhzg.r-sdzlij.r-1phboty.r-rs99b7.r-hwh8t1.r-peo1c.r-1ps3wis.r-1ny4l3l.r-1guathk.r-o7ynqc.r-6416eg.r-lrvibr {
-  background-color: #999999;
+    background-color: #999999;
 }
 
 
 section.css-1dbjc4n.r-jxzhtn.r-1ljd8xs.r-13l2t4g.r-1phboty.r-13awgt0.r-1jgb5lz.r-1ye8kvj.r-1udh08x.r-13qz1uu {
-  background-color: #666666;
-  
+    background-color: #666666;
 }
 
 a.css-4rbku5.css-18t94o4.css-1dbjc4n.r-1loqt21.r-1wtj0ep.r-16x9es5.r-1ny4l3l.r-ymttw5.r-1f1sjgu.r-o7ynqc.r-6416eg {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 svg.r-14j79pv.r-4qtqp9.r-yyyyoo.r-1q142lx.r-1xvli5t.r-dnmrzs.r-f727ji.r-bnwqim.r-1plcrui.r-lrvibr {
-  color: #cccccc;
+    color: #cccccc;
 }
 
 
 svg.r-14j79pv.r-4qtqp9.r-yyyyoo.r-1xvli5t.r-dnmrzs.r-bnwqim.r-1plcrui.r-lrvibr {
-  color: #cccccc;
+    color: #cccccc;
 }
 
 div.css-1dbjc4n.r-1awozwy.r-18u37iz.r-1wbh5a2.r-1pn2ns4.r-5njf8e {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-901oao.r-14j79pv.r-1tl8opc.r-n6v787.r-16dba41.r-1cwl3u0.r-bcqeeo.r-ymttw5.r-1f1sjgu.r-qvutc0 {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 section.css-1dbjc4n.r-jxzhtn.r-13l2t4g.r-1phboty.r-1jgb5lz.r-1ye8kvj.r-1udh08x.r-13qz1uu {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-1dbjc4n.r-xyw6el.r-1knelpx {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-1dbjc4n.r-aqfbo4.r-14lw9ot.r-lyc4rv.r-14skgim.r-13l2t4g.r-1wtj0ep.r-1m6ou43.r-bnwqim.r-1gymjhz {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-1dbjc4n.r-1pp923h.r-1moyyf3.r-16y2uox.r-1wbh5a2.r-1dqxon3 {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-1dbjc4n.r-14lw9ot.r-ymttw5.r-1yzf0co {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-1dbjc4n.r-14lw9ot.r-1867qdf.r-1wbh5a2.r-kwpbio.r-rsyp9y.r-1pjcn9w.r-1279nm1.r-htvplk.r-1udh08x {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-1dbjc4n.r-z6ln5t.r-14lw9ot.r-1867qdf.r-1jgb5lz.r-pm9dpa.r-1ye8kvj.r-1rnoaur.r-494qqr.r-13qz1uu {
-  background-color: #666666;
-  
+    background-color: #666666;
 }
 
 div.css-18t94o4.css-1dbjc4n.r-sdzlij.r-1phboty.r-rs99b7.r-1kb76zh.r-2yi16.r-1qi8awa.r-1ny4l3l.r-ymttw5.r-o7ynqc.r-6416eg.r-lrvibr {
-  background-color: #b7b7b7;
+    background-color: #b7b7b7;
 }
 
 div.css-1dbjc4n.r-18u37iz.r-1w6e6rj.r-1wtj0ep.r-1evfv6a {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-1dbjc4n.r-13awgt0.r-eqz5dr.r-1f1sjgu.r-bnwqim.r-184en5c {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-1dbjc4n.r-ilng1c {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 /*  検索キーワード入力欄のDropDown  */
 div#typeaheadDropdown-3.css-1dbjc4n.r-150rngu.r-14lw9ot.r-1xfd6ze.r-1upvrn0.r-1d2f490.r-8fhv3p.r-h3f8nf.r-1rnoaur.r-1r851ge.r-u8s1d.r-zchlnj.r-ipm5af {
-  background-color: #999999;
+    background-color: #999999;
 }
 
 div.css-1dbjc4n.r-14lw9ot.r-oyd9sg {
-  background-color: #999999;
-  
+    background-color: #999999;
 }
 
 div.css-1dbjc4n.r-xoduu5.r-xyw6el.r-mk0yit.r-13qz1uu {
-  background-color: #cccccc;
+    background-color: #999999;
 }
 
 
 svg.r-1cvl2hr.r-4qtqp9.r-yyyyoo.r-z80fyv.r-dnmrzs.r-bnwqim.r-1plcrui.r-lrvibr.r-19wmn03 {
-  color: #ff9900;
+    color: #ff9900;
 }
 
 div.css-1dbjc4n.r-1867qdf.r-eqz5dr.r-4m99jg.r-iphfwy.r-95jzfe {
-  background-color: #666666;
+    background-color: #666666;
 }
 
 div.css-18t94o4.css-1dbjc4n.r-1ny4l3l.r-ymttw5.r-1f1sjgu {
-  background-color: #666666;
-  
+    background-color: #666666;
 }
 
 div.css-1dbjc4n.r-13hce6t.r-2llsf.r-1wgg2b2.r-13fbp4t.r-g315bo.r-33ulu8.r-184en5c {
-  width: 500px;
+    width: 500px;
 }
 
 svg.r-4qtqp9.r-yyyyoo.r-50lct3.r-dnmrzs.r-bnwqim.r-1plcrui.r-o7ynqc.r-clp7b1.r-lrvibr {
-  color: #ff9900;
-  
+    color: #ff9900;
 }
 
+a.css-4rbku5.css-18t94o4.css-901oao.css-16my406.r-1loqt21.r-poiln3.r-bcqeeo.r-qvutc0 {
+    color: #ff9900;
+}
+
+/* ツイート入力タブ */
+div.r-yfoy6g.r-9ahv8v.r-14skgim.r-13l2t4g.r-6koalj.r-eqz5dr.r-16y2uox.r-1wbh5a2.r-1udh08x.r-12edz9q.r-1wn9b5e.r-t38b8u.r-184en5c {
+    width: 500px
+}
+/* ツイート入力欄 */
+div.css-1dbjc4n.r-13awgt0.r-2llsf.r-1ny4l3l {
+    width: unset;
+}
+
+/* 埋め込み動画 再生ボタン */
+div.css-1dbjc4n.r-1awozwy.r-1p0dtai.r-1777fci.r-1d2f490.r-u8s1d.r-zchlnj.r-ipm5af {
+    max-height: 120px;
+    max-width: 50%;
+}
